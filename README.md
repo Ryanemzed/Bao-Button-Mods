@@ -44,7 +44,7 @@ Here's the listing I used to order a set of 50 white slotted buttons: https://ww
 IMPORTANT NOTE: I cannot guarantee that any other colours or even another order of whites will be slotted or slotless. The product pictures in the listing are inconsistent. Slotless are less than useless, so be warned.
 
 # Closing
-If you have Qs (which, if you're smart, you should have at least a few), ping me in Crane's discord, found at https://craneslab.xyz/discord
+If you have Qs (tbh wih how scuffy this is you should have at least a few), ping me in Crane's discord, found at https://craneslab.xyz/discord
 
 
 
