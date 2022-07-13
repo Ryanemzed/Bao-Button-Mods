@@ -19,8 +19,7 @@ Each of the approximate stages in modding a button:
 
 # Video For Context
 
-You can head to YouTube to view video for the build: https://www.youtube.com/shorts/yARG1eLgp0M
-
+You can head to YouTube to view video for the build: https://www.youtube.com/shorts/Zv_CO94l2CY
 
 # Files for the PCBs
 Here are the KiCad files for this stuff (it's blurry and I'm sorry I need to retake it):
