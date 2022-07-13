@@ -19,7 +19,7 @@ Each of the approximate stages in modding a button:
 
 # Video For Context
 
-You can head to YouTube to view build video for context: https://www.youtube.com/shorts/yARG1eLgp0M
+You can head to YouTube to view video for the build: https://www.youtube.com/shorts/yARG1eLgp0M
 
 
 # Files for the PCBs
