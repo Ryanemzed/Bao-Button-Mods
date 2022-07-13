@@ -17,6 +17,10 @@ A prototype build using a full set of these buttons:
 Each of the approximate stages in modding a button:
 ![darktable_GZj3nLs6bU](https://user-images.githubusercontent.com/96904158/166160617-fee3a8d4-3d13-40c9-a30d-eb6424cdf37e.jpg)
 
+# Video For Context
+
+You can head to YouTube to view build video for context: https://www.youtube.com/shorts/yARG1eLgp0M
+
 
 # Files for the PCBs
 Here are the KiCad files for this stuff (it's blurry and I'm sorry I need to retake it):
